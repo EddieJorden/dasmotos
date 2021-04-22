@@ -1,0 +1,42 @@
+.name-heading {
+	background-image: url('pattern.webp');
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	padding: 30px;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 32psx;
+	font-family: Helvetica;
+	color: white;
+}
+
+.brushes {
+	background-color: mediumspringgreen;
+}
+
+.brushes-highlight {
+	font-weight: bold;
+	color: blue;
+}
+
+.frames {
+	background-color: lightcoral;
+}
+
+.paint {
+	background-color: skyblue;
+}
+
+.p-title {
+	font-weight: bold;
+	font-size: 25px;
+}
+
+body {
+	font-family: Helvetica;
+}
